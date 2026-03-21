@@ -6,18 +6,6 @@ div#kalenders {
 table.beschikbaarheidskalender {
   background-color: #e9d692;
 }
-"body {
-  background-color: lightgrey;
-  color: blue;
-}"
-
-h1 {
-  background-color: black;
-  color: white;
+td.beschikbaarheid-maand {
+  color: black
 }
-
-"div {
-  background-color: blue;
-  color: white;
-}
-"
