@@ -8,5 +8,6 @@ table.beschikbaarheidskalender {
 }
 table.beschikbaarheidskalender
 td.beschikbaarheid-maand {
-  color: black !important;
+  color: yellow !important;
+  font-size: 18px !important;
 }
